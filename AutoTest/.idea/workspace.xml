@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07885721-0219-4328-a3fb-2067c4e33863" name="Default Changelist" comment="" />
+    <list default="true" id="07885721-0219-4328-a3fb-2067c4e33863" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/DenpendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/multiThread/MultiThreadOnAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/multiThread/MultiThreadOnXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/parameter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/parameter/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/resources/Parameter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/resources/multiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/ExpectException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/ExpectException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter05/target/classes/META-INF/Chapter05.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aICpdZGzkSHth3NjJLaTaPIfvt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +53,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -47,8 +65,52 @@
       <recent name="tech.lvjiawen.testng" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/code/my-learn/imooc/AutoTest/Chapter05/src/main/resources/GroupsOnClass.xml">
-    <configuration name="BasicAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TimeOutTest">
+    <configuration name="D:/code/my-learn/learn-test/AutoTest/Chapter05/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter05" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter05/src/main/resources/multiThread.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.testng.parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng.parameter" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.parameter.DataProviderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadOnAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.testng.multiThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng.multiThread" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.multiThread.MultiThreadOnAnnotation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter05" />
       <extension name="coverage">
         <pattern>
@@ -57,7 +119,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tech.lvjiawen.testng" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.BasicAnnotation" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.TimeOutTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -65,44 +127,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/code/my-learn/imooc/AutoTest/Chapter05/src/main/resources/GroupsOnClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter05/src/main/resources/GroupsOnClass.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/code/my-learn/imooc/AutoTest/Chapter05/src/main/resources/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter05/src/main/resources/suite.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupsOnMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.testng.groups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng.groups" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.groups.GroupsOnMethod" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IgnoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeOutTest.testSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter05" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +136,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tech.lvjiawen.testng" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.IgnoreTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.TimeOutTest" />
+      <option name="METHOD_NAME" value="testSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -121,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/code/my-learn/imooc/AutoTest/Chapter05/src/main/resources/GroupsOnClass.xml" />
-        <item itemvalue="TestNG.GroupsOnMethod" />
-        <item itemvalue="TestNG.IgnoreTest" />
-        <item itemvalue="TestNG.D:/code/my-learn/imooc/AutoTest/Chapter05/src/main/resources/suite.xml" />
-        <item itemvalue="TestNG.BasicAnnotation" />
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.TimeOutTest.testSuccess" />
+        <item itemvalue="TestNG.D:/code/my-learn/learn-test/AutoTest/Chapter05/src/main/resources/multiThread.xml" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotation" />
+        <item itemvalue="TestNG.DataProviderTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -159,30 +185,30 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="655" y="264" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586416259718" />
-    <state width="1299" height="266" key="GridCell.Tab.0.bottom" timestamp="1586420353908">
+    <state width="1299" height="266" key="GridCell.Tab.0.bottom" timestamp="1586431811984">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586420353908" />
-    <state width="1299" height="266" key="GridCell.Tab.0.center" timestamp="1586420353908">
+    <state width="1299" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811984" />
+    <state width="1299" height="266" key="GridCell.Tab.0.center" timestamp="1586431811983">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586420353908" />
-    <state width="1299" height="266" key="GridCell.Tab.0.left" timestamp="1586420353908">
+    <state width="1299" height="266" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811983" />
+    <state width="1299" height="266" key="GridCell.Tab.0.left" timestamp="1586431811983">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586420353908" />
-    <state width="1299" height="266" key="GridCell.Tab.0.right" timestamp="1586420353908">
+    <state width="1299" height="266" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811983" />
+    <state width="1299" height="266" key="GridCell.Tab.0.right" timestamp="1586431811984">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586420353908" />
+    <state width="1299" height="266" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811984" />
     <state x="159" y="148" key="SettingsEditor" timestamp="1586418274243">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="159" y="148" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1586418274243" />
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586416159633">
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586428796385">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586416159633" />
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586428796385" />
     <state x="710" y="402" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586416418581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -191,5 +217,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="250" y="119" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1586414211472" />
+    <state x="359" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1586429805068">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="359" y="250" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1586429805068" />
   </component>
 </project>

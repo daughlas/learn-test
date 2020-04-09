@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="thread" parallel="classes" thread-count="2">
+    <!--
+        tests 级别是不同 test 标签下的用例可以用不同的线程，同标签只能用同一个线程
+        classes 相同的class 用例在同一个 线程上执行
+        methods 级别：所有用例都可以在不同的线程下去执行
+        thread-count: 代表了最大并发线程数
+        xml 这种方式不能指定线程池，只有方法上才可以指定线程池
+    -->
+    <test name="demo1">
+        <classes>
+            <class name="tech.lvjiawen.testng.multiThread.MultiThreadOnXML"></class>
+        </classes>
+    </test>
+
+    <test name="demo2">
+        <classes>
+            <class name="tech.lvjiawen.testng.multiThread.MultiThreadOnXML"></class>
+        </classes>
+    </test>
+</suite>
