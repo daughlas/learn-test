@@ -2,18 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07885721-0219-4328-a3fb-2067c4e33863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/DenpendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/TimeOutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/multiThread/MultiThreadOnAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/multiThread/MultiThreadOnXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/parameter/DataProviderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/parameter/ParameterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/resources/Parameter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter05/src/main/resources/multiThread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/Chapter06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/java/tech/lvjiawen/extend/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/java/tech/lvjiawen/extend/demo/ExtentTestNGIReporterListenerOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/java/tech/lvjiawen/extend/demo/TestMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter06/test-output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/startupGet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/startupPost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter07/startupRedirect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/Chapter09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/tech/lvjiawen/httpClient/cookies/MyCookiesForGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/tech/lvjiawen/httpClient/cookies/MyCookiesForPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/tech/lvjiawen/httpClient/demo/MyHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/ExpectException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/src/main/java/tech/lvjiawen/testng/ExpectException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter05/target/classes/META-INF/Chapter05.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter05/Chapter05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/Chapter05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +78,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1aICpdZGzkSHth3NjJLaTaPIfvt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -55,37 +95,38 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter05" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\my-learn\learn-test\AutoTest\Chapter07" />
+      <recent name="D:\code\my-learn\learn-test\AutoTest" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="tech.lvjiawen.testng" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tech.lvjiawen.extend.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\my-learn\learn-test\AutoTest\Chapter05" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TimeOutTest">
-    <configuration name="D:/code/my-learn/learn-test/AutoTest/Chapter05/src/main/resources/multiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter05/src/main/resources/multiThread.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
+  <component name="RunManager" selected="TestNG.MyCookiesForPost.testPostMethod">
+    <configuration name="MyCookiesForGet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.testng.parameter.*" />
+          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng.parameter" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.parameter.DataProviderTest" />
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForGet" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -93,51 +134,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadOnAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
+    <configuration name="MyCookiesForGet.getCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.testng.multiThread.*" />
+          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng.multiThread" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.multiThread.MultiThreadOnAnnotation" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="getCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
+    <configuration name="MyCookiesForGet.testGetWithCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.testng.*" />
+          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.TimeOutTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="testGetWithCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeOutTest.testSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter05" />
+    <configuration name="MyCookiesForPost.testPostMethod (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.testng.*" />
+          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.testng" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.testng.TimeOutTest" />
-      <option name="METHOD_NAME" value="testSuccess" />
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForPost" />
+      <option name="METHOD_NAME" value="testPostMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForPost.testPostMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForPost" />
+      <option name="METHOD_NAME" value="testPostMethod" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -147,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TimeOutTest" />
-        <item itemvalue="TestNG.TimeOutTest.testSuccess" />
-        <item itemvalue="TestNG.D:/code/my-learn/learn-test/AutoTest/Chapter05/src/main/resources/multiThread.xml" />
-        <item itemvalue="TestNG.MultiThreadOnAnnotation" />
-        <item itemvalue="TestNG.DataProviderTest (1)" />
+        <item itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
+        <item itemvalue="TestNG.MyCookiesForPost.testPostMethod (1)" />
+        <item itemvalue="TestNG.MyCookiesForGet.testGetWithCookies" />
+        <item itemvalue="TestNG.MyCookiesForGet.getCookies" />
+        <item itemvalue="TestNG.MyCookiesForGet" />
       </list>
     </recent_temporary>
   </component>
@@ -168,15 +229,26 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="167" key="#Project_Structure" timestamp="1586416337525">
+    <state x="577" y="179" key="#Notifications" timestamp="1586497183685">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="467" y="167" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1586416337525" />
+    <state x="577" y="179" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1586497183685" />
+    <state x="467" y="167" key="#Project_Structure" timestamp="1586483934768">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="467" y="167" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1586483934768" />
     <state x="465" y="164" width="1092" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586416377216">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="465" y="164" width="1092" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586416377216" />
+    <state x="704" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586497018509">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="704" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1586497018509" />
     <state x="479" y="378" width="486" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586418668745">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -185,38 +257,38 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="655" y="264" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586416259718" />
-    <state width="1299" height="266" key="GridCell.Tab.0.bottom" timestamp="1586431811984">
+    <state width="1552" height="264" key="GridCell.Tab.0.bottom" timestamp="1586510920320">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811984" />
-    <state width="1299" height="266" key="GridCell.Tab.0.center" timestamp="1586431811983">
+    <state width="1552" height="264" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1552" height="264" key="GridCell.Tab.0.center" timestamp="1586510920320">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811983" />
-    <state width="1299" height="266" key="GridCell.Tab.0.left" timestamp="1586431811983">
+    <state width="1552" height="264" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1552" height="264" key="GridCell.Tab.0.left" timestamp="1586510920320">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811983" />
-    <state width="1299" height="266" key="GridCell.Tab.0.right" timestamp="1586431811984">
+    <state width="1552" height="264" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1552" height="264" key="GridCell.Tab.0.right" timestamp="1586510920320">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1299" height="266" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586431811984" />
+    <state width="1552" height="264" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
     <state x="159" y="148" key="SettingsEditor" timestamp="1586418274243">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="159" y="148" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1586418274243" />
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586428796385">
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586483499040">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586428796385" />
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586483499040" />
     <state x="710" y="402" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586416418581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="710" y="402" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1040@0.0.2560.1040" timestamp="1586416418581" />
-    <state x="250" y="119" key="new project wizard" timestamp="1586414211472">
+    <state x="270" y="194" key="new project wizard" timestamp="1586497454911">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="250" y="119" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1586414211472" />
+    <state x="270" y="194" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1586497454911" />
     <state x="359" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1586429805068">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>

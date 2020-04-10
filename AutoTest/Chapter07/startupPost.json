@@ -1,0 +1,50 @@
+[
+  {
+    "description": "模拟 post 请求",
+    "request": {
+      "uri": "/postdemo",
+      "method": "post"
+    },
+    "response": {
+      "text": "mock post"
+    }
+  },
+  {
+    "description": "模拟带参数的 post 请求",
+    "request": {
+      "uri": "postwithparams",
+      "method": "post",
+      "forms": {
+        "name": "lvjiawen",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "post with parameters"
+    }
+  },
+  {
+    "description": "带 cookie json 请求",
+    "request": {
+      "uri": "/post/with/cookies",
+      "method": "post",
+      "json": {
+        "name": "lvjiawen",
+        "age": "18"
+      },
+      "cookies": {
+        "login": "true"
+      },
+      "headers": {
+        "content-type": "application/json"
+      }
+    },
+    "response": {
+      "status": "200",
+      "json": {
+        "lvjiawen": "200",
+        "status": "success"
+      }
+    }
+  }
+]

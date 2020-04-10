@@ -1,0 +1,75 @@
+[
+  {
+    "description": "返回cookies 信息",
+    "request": {
+      "uri": "/getCookies",
+      "method": "get"
+    },
+    "response": {
+      "text": "恭喜你获得 cookies 信息",
+      "cookies": {
+        "login": "true"
+      },
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  },
+  {
+    "description": "没有参数的 get 请求",
+    "request": {
+      "uri": "/getdemo",
+      "method": "get"
+    },
+    "response": {
+      "text": "this is a get request with no parameters"
+    }
+  },
+  {
+    "description": "带参数的 get 请求",
+    "request": {
+      "uri": "/getwithparams",
+      "method": "get",
+      "queries": {
+        "name": "lvjiawen",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "this is a get request with  parameters!!!!"
+    }
+  },
+  {
+    "description": "带cookies",
+    "request": {
+      "uri": "/get/with/cookies",
+      "method": "get",
+      "cookies": {
+        "login": "true"
+      }
+    },
+    "response": {
+      "text": "a get requeste need cookies!"
+    }
+  },
+  {
+    "description": "带cookies 返回字符串",
+    "request": {
+      "uri": "/post/with/cookies",
+      "method": "post",
+      "cookies": {
+        "login": "true"
+      },
+      "json":{
+        "name": "lvjiawen",
+        "age": "18"
+      }
+    },
+    "response": {
+      "json": {
+        "lvjiawen": "success",
+        "status": "1"
+      }
+    }
+  }
+]
