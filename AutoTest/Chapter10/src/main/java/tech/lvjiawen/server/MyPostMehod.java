@@ -37,10 +37,13 @@ public class MyPostMehod {
         Cookie[] cookies = request.getCookies();
         // 验证 cookies
         for(Cookie c: cookies) {
-            if (c.getName() == "login"
-                    && c.getValue() == "true"
-                    && u.getUserName() == "lvjiawen"
-                    && u.getPassword() == "123456"
+            System.out.println(c.getName());
+            System.out.println(c.getValue());
+
+            if (c.getName().equals("login")
+                    && c.getValue().equals("true")
+                    && u.getUserName().equals("lvjiawen")
+                    && u.getPassword().equals("123456")
             ) {
                 user.setName("lisi");
                 user.setAge("18");

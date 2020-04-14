@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.Objects;
 
 @RestController
-@Api(value="/", description = "这是我全部的get 方法")
+@Api(value="/", description = "这是我全部的 get 方法")
 public class MyGetMethod {
 
     @RequestMapping(value="/getCookies", method = RequestMethod.GET)
