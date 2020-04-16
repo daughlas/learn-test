@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07885721-0219-4328-a3fb-2067c4e33863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/Chapter06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/java/tech/lvjiawen/extend/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/java/tech/lvjiawen/extend/demo/ExtentTestNGIReporterListenerOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/java/tech/lvjiawen/extend/demo/TestMethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/src/main/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter06/test-output/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/startup1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/startupGet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/startupPost.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter07/startupRedirect.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/Chapter09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/tech/lvjiawen/httpClient/cookies/MyCookiesForGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/tech/lvjiawen/httpClient/cookies/MyCookiesForPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/java/tech/lvjiawen/httpClient/demo/MyHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter09/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter05/Chapter05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/Chapter05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter05/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,24 +68,7 @@
       <recent name="D:\code\my-learn\learn-test\AutoTest\Chapter05" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MyCookiesForPost.testPostMethod">
-    <configuration name="MyCookiesForGet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter09" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForGet" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.MyCookiesForGet.getCookies">
     <configuration name="MyCookiesForGet.getCookies" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter09" />
       <extension name="coverage">
@@ -206,13 +141,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMethodsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.lvjiawen.extend.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tech.lvjiawen.extend.demo" />
+      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.extend.demo.TestMethodsDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MyCookiesForGet.getCookies" />
+        <item itemvalue="TestNG.TestMethodsDemo" />
         <item itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
         <item itemvalue="TestNG.MyCookiesForPost.testPostMethod (1)" />
         <item itemvalue="TestNG.MyCookiesForGet.testGetWithCookies" />
-        <item itemvalue="TestNG.MyCookiesForGet.getCookies" />
-        <item itemvalue="TestNG.MyCookiesForGet" />
       </list>
     </recent_temporary>
   </component>
@@ -257,30 +209,30 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="655" y="264" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586416259718" />
-    <state width="1552" height="264" key="GridCell.Tab.0.bottom" timestamp="1586510920320">
+    <state width="1552" height="264" key="GridCell.Tab.0.bottom" timestamp="1586844089684">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
-    <state width="1552" height="264" key="GridCell.Tab.0.center" timestamp="1586510920320">
+    <state width="1552" height="264" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
+    <state width="1552" height="264" key="GridCell.Tab.0.center" timestamp="1586844089684">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
-    <state width="1552" height="264" key="GridCell.Tab.0.left" timestamp="1586510920320">
+    <state width="1552" height="264" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
+    <state width="1552" height="264" key="GridCell.Tab.0.left" timestamp="1586844089684">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
-    <state width="1552" height="264" key="GridCell.Tab.0.right" timestamp="1586510920320">
+    <state width="1552" height="264" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
+    <state width="1552" height="264" key="GridCell.Tab.0.right" timestamp="1586844089684">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1552" height="264" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
     <state x="159" y="148" key="SettingsEditor" timestamp="1586418274243">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="159" y="148" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1586418274243" />
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586483499040">
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586843735371">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586483499040" />
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586843735371" />
     <state x="710" y="402" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586416418581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -293,5 +245,16 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="359" y="250" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1586429805068" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chapter09/target/classes/tech/lvjiawen/httpClient/demo/MyHttpClient.class</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
