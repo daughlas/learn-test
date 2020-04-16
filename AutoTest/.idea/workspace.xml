@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="07885721-0219-4328-a3fb-2067c4e33863" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/tech/lvjiawen/server/MyGetMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/tech/lvjiawen/server/MyGetMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/tech/lvjiawen/server/MyPostMehod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/tech/lvjiawen/server/MyPostMehod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aICpdZGzkSHth3NjJLaTaPIfvt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,45 +44,65 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter05" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\my-learn\learn-test\AutoTest\Chapter07" />
-      <recent name="D:\code\my-learn\learn-test\AutoTest" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tech.lvjiawen.server" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="tech.lvjiawen.testng" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="tech.lvjiawen.extend.demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\my-learn\learn-test\AutoTest\Chapter05" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tech.lvjiawen.extend.demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\my-learn\learn-test\AutoTest\Chapter07" />
+      <recent name="D:\code\my-learn\learn-test\AutoTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.MyCookiesForGet.getCookies">
-    <configuration name="MyCookiesForGet.getCookies" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter09" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.httpClient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.httpClient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.httpClient.cookies.MyCookiesForGet" />
-      <option name="METHOD_NAME" value="getCookies" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Chapter10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter10Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Chapter10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Chapter10Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,32 +161,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethodsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tech.lvjiawen.extend.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tech.lvjiawen.extend.demo" />
-      <option name="MAIN_CLASS_NAME" value="tech.lvjiawen.extend.demo.TestMethodsDemo" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MyCookiesForGet.getCookies" />
-        <item itemvalue="TestNG.TestMethodsDemo" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Spring Boot.Application" />
         <item itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
         <item itemvalue="TestNG.MyCookiesForPost.testPostMethod (1)" />
         <item itemvalue="TestNG.MyCookiesForGet.testGetWithCookies" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="失败" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -178,8 +203,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586413904801</updated>
+      <workItem from="1586592855042" duration="11133000" />
+      <workItem from="1586656505668" duration="244000" />
+      <workItem from="1586656765757" duration="251000" />
+      <workItem from="1586879354053" duration="2399000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -201,60 +233,86 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="704" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1586497018509" />
-    <state x="479" y="378" width="486" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586418668745">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1592" y="444" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586594029402">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state x="1592" y="444" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586594029402" />
+    <state x="535" y="407" width="401" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586599255489">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
     <state x="479" y="378" width="486" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1040@0.0.2560.1040" timestamp="1586418668745" />
+    <state x="535" y="407" width="401" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586599255489" />
+    <state x="1573" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586600856798">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state x="1573" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586600856798" />
     <state x="655" y="264" key="FileChooserDialogImpl" timestamp="1586416259718">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="655" y="264" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1586416259718" />
-    <state width="1552" height="264" key="GridCell.Tab.0.bottom" timestamp="1586844089684">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1319" height="283" key="GridCell.Tab.0.bottom" timestamp="1586881769674">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
-    <state width="1552" height="264" key="GridCell.Tab.0.center" timestamp="1586844089684">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1552" height="264" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1319" height="283" key="GridCell.Tab.0.bottom/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586881769674" />
+    <state width="1319" height="283" key="GridCell.Tab.0.center" timestamp="1586881769673">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
-    <state width="1552" height="264" key="GridCell.Tab.0.left" timestamp="1586844089684">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1552" height="264" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1319" height="283" key="GridCell.Tab.0.center/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586881769673" />
+    <state width="1319" height="283" key="GridCell.Tab.0.left" timestamp="1586881769672">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
-    <state width="1552" height="264" key="GridCell.Tab.0.right" timestamp="1586844089684">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1552" height="264" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1319" height="283" key="GridCell.Tab.0.left/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586881769672" />
+    <state width="1319" height="283" key="GridCell.Tab.0.right" timestamp="1586881769673">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
-    <state width="1552" height="264" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586844089684" />
-    <state x="159" y="148" key="SettingsEditor" timestamp="1586418274243">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1552" height="264" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1586510920320" />
+    <state width="1319" height="283" key="GridCell.Tab.0.right/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586881769673" />
+    <state width="902" height="283" key="GridCell.Tab.1.bottom" timestamp="1586656499577">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state width="902" height="283" key="GridCell.Tab.1.bottom/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586656499577" />
+    <state width="902" height="283" key="GridCell.Tab.1.center" timestamp="1586656499577">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state width="902" height="283" key="GridCell.Tab.1.center/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586656499577" />
+    <state width="902" height="283" key="GridCell.Tab.1.left" timestamp="1586656499577">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state width="902" height="283" key="GridCell.Tab.1.left/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586656499577" />
+    <state width="902" height="283" key="GridCell.Tab.1.right" timestamp="1586656499577">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state width="902" height="283" key="GridCell.Tab.1.right/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586656499577" />
+    <state x="1372" y="207" key="Maven.ArtifactSearchDialog" timestamp="1586600895712">
+      <screen x="69" y="23" width="2491" height="1057" />
+    </state>
+    <state x="1372" y="207" key="Maven.ArtifactSearchDialog/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586600895712" />
+    <state x="1066" y="100" key="SettingsEditor" timestamp="1586656780497">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
     <state x="159" y="148" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1586418274243" />
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1586843735371">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1066" y="100" key="SettingsEditor/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586656780497" />
+    <state x="610" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1586879378491">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
-    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586843735371" />
+    <state x="556" y="333" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1586483499040" />
+    <state x="610" y="361" key="com.intellij.ide.util.TipDialog/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586879378491" />
     <state x="710" y="402" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586416418581">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="710" y="402" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1040@0.0.2560.1040" timestamp="1586416418581" />
-    <state x="270" y="194" key="new project wizard" timestamp="1586497454911">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1197" y="218" key="new project wizard" timestamp="1586594913109">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
     <state x="270" y="194" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1586497454911" />
-    <state x="359" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1586429805068">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="1197" y="218" key="new project wizard/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586594913109" />
+    <state x="418" y="277" width="670" height="690" key="search.everywhere.popup" timestamp="1586656224265">
+      <screen x="69" y="23" width="2491" height="1057" />
     </state>
     <state x="359" y="250" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1586429805068" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Chapter09/target/classes/tech/lvjiawen/httpClient/demo/MyHttpClient.class</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="418" y="277" width="670" height="690" key="search.everywhere.popup/69.23.2491.1057/260.1080.1920.1200@69.23.2491.1057" timestamp="1586656224265" />
   </component>
 </project>
