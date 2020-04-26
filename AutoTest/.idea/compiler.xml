@@ -18,7 +18,7 @@
       <module name="Chapter06" target="6" />
       <module name="Chapter07" target="1.5" />
       <module name="Chapter09" target="1.5" />
-      <module name="Chapter10" target="1.8" />
+      <module name="Chapter10" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
